@@ -82,7 +82,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://fast-brook-91386.herokuapp.com/"><img src="/images/spect.jpg"
+                      <a href="https://fast-brook-91386.herokuapp.com/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/spect.jpg"
                         alt="project 2" style={{ width: "200px" }} /></a>
                       <h3>Project 2: Spectrum Careers</h3>
                       <h5><a href="https://github.com/aaaronmiller/Project-2-Spectrum-Careers">
