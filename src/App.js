@@ -255,8 +255,50 @@ class App extends Component {
                   id="section4"
                 />
                 <Section
-                  title="Boogers"
-                  subtitle={dummyText}
+                  title="Credits"
+                  subtitle={
+                   <div>
+
+                    <span>
+                    Thanks to my friends and family!
+                   </span>
+                    <div style={{ color: "#333" }}>
+                    
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                    <p>
+                      .</p>
+                  </div>
+                  </div>
+                  }
                   dark={true}
                   id="section5"
                 />

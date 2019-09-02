@@ -157,11 +157,11 @@ export default class Navbar extends Component {
                 {this.state.flip5 ? 
                   (
                     <FlipDiv style={{backgroundColor:"black", color:"red"}}>
-                  Boogers 
+                  Credits 
                   </FlipDiv>
                 ) : (
                   <div>
-                  Boogers
+                  Credits
                   </div>
                 )}
               </Link>
