@@ -24,13 +24,12 @@ class App extends Component {
               <p>
                 When I’m not working, I’m either: Looking for the latest coding techniques, practicing my calligraphy, skiing down the local mountains, traveling, photographing or being a food addict.  I also have a keen interest in hardware; fixing laptops and building desktops, messing around with breadboards for Arduino projects, and making drones and other RC creations.
               </p>
+              <p>
+              <a href="https://www.linkedin.com/in/aaron-miller-7ab7764" style={{ color: "#0e4c9c" }}>LinkedIn</a>
+              </p><p>
+              <a href="https://github.com/aaaronmiller" style={{ color: "#0e4c9c" }}>GitHub</a>
+              </p>
               <div style={{ color: "black" }}>
-                <p>
-                  .</p>
-                <p>
-                  .</p>
-                <p>
-                  .</p>
                 <p>
                   .</p>
                 <p>
@@ -74,7 +73,7 @@ class App extends Component {
 
 
                 <div class="work">
-                  <a href="https://aaaronmiller.github.io/Board-Games-With-Friends/"><img src="/images/bgwf.jpg"
+                  <a href="https://aaaronmiller.github.io/Board-Games-With-Friends/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/bgwf.jpg"
                     alt="project 3" style={{width: "200px"}} /></a>
                     <h3 style={{padding:"0px"}} >Project 3: Board games with Friends (React)</h3>
                     <h5 style={{padding:"0px"}}><a href="https://github.com/aaaronmiller/Board-Games-With-Friends">
@@ -90,15 +89,15 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://redchampion.github.io/projectnumber1/"><img src="/images/project1thumb.jpg"
+                      <a href="https://aaaronmiller.github.io/projectnumber1/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/project1thumb.jpg"
                         alt="project 1" style={{ width: "200px" }} /></a>
                       <h3>Project 1 : My Dog and Me</h3>
-                      <h5><a href="https://github.com/aaaronmiller/burger">
+                      <h5><a href="https://github.com/aaaronmiller/projectnumber1">
                         (Git repository)</a></h5>
                     </div><br />
 
                     <div class="work">
-                      <a href="https://damp-caverns-93347.herokuapp.com/"><img src="/images/burger.jpg"
+                      <a href="https://damp-caverns-93347.herokuapp.com/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/burger.jpg"
                         alt="burger" style={{ width: "200px" }} /></a>
                       <h3>Eat-Da-Burger</h3>
                       <h5><a href="https://github.com/aaaronmiller/burger">
@@ -106,7 +105,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://bongobong.herokuapp.com/"><img src="/images/friendfinder.jpg"
+                      <a href="https://bongobong.herokuapp.com/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/friendfinder.jpg"
                         alt="friend finder" style={{ width: "200px" }} /></a>
                       <h3>Friend Finder</h3>
                       <h5><a href="https://github.com/aaaronmiller/friendfinder">
@@ -114,7 +113,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://aaaronmiller.github.io/Word-Guess-Game/"><img src="/images/wordguess.jpg"
+                      <a href="https://aaaronmiller.github.io/Word-Guess-Game/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/wordguess.jpg"
                         alt="Wordguess game" style={{ width: "200px" }} /></a>
                       <h3>Wordguess game</h3>
                       <h5><a href="https://github.com/aaaronmiller/Word-Guess-Game">
@@ -122,7 +121,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://aaaronmiller.github.io/traintime/"><img src="/images/train.jpg"
+                      <a href="https://aaaronmiller.github.io/traintime/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/train.jpg"
                         alt="Train schedule demo" style={{ width: "200px" }} /></a>
                       <h3>Train schedule demo</h3>
                       <h5><a href="https://github.com/aaaronmiller/traintime">
@@ -130,7 +129,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://aaaronmiller.github.io/unit-4-game/"><img src="/images/dogfight.jpg"
+                      <a href="https://aaaronmiller.github.io/unit-4-game/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/dogfight.jpg"
                         alt="RPG game demo" style={{ width: "200px" }} /></a>
                       <h3>RPG game demo</h3>
                       <h5><a href="https://github.com/aaaronmiller/unit-4-game">
@@ -138,7 +137,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://aaaronmiller.github.io/TriviaGame/"><img src="/images/trivia.jpg" alt="Trivia Game"
+                      <a href="https://aaaronmiller.github.io/TriviaGame/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/trivia.jpg" alt="Trivia Game"
                         style={{ width: "200px" }} /></a>
                       <h3>Trivia Game</h3>
                       <h5><a href="https://github.com/aaaronmiller/TriviaGame">
@@ -146,7 +145,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://aaaronmiller.github.io/giphyhomework/"><img src="/images/giphy.jpg"
+                      <a href="https://aaaronmiller.github.io/giphyhomework/"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/giphy.jpg"
                         alt="Giphy API Demonstration" style={{ width: "200px" }} /></a>
                       <h3>Giphy API Demonstration</h3>
                       <h5><a href="https://github.com/aaaronmiller/giphyhomework">
@@ -154,7 +153,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://github.com/aaaronmiller/liri-node-app"><img src="/images/liribot.jpg"
+                      <a href="https://github.com/aaaronmiller/liri-node-app"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/liribot.jpg"
                         alt="Giphy API Demonstration" style={{ width: "200px" }} /></a>
                       <h3>LIRI node.js application</h3>
                       <h4><a href="https://youtu.be/OQJUa90TNFE">(Video demonstration)</a></h4>
@@ -163,7 +162,7 @@ class App extends Component {
                     </div><br />
 
                     <div class="work">
-                      <a href="https://github.com/aaaronmiller/bamazon"><img src="/images/bamazon.jpg"
+                      <a href="https://github.com/aaaronmiller/bamazon"><img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/bamazon.jpg"
                         alt="Bamazon node.js app" style={{ width: "200px" }} /></a>
                       <h3>Bamazon node.js application</h3>
                       <h4><a href="https://youtu.be/558zRka-hXE">(Video demonstration)</a></h4>

@@ -9,7 +9,7 @@ export default function Section({ title, subtitle, dark, id }) {
       <div className="section-content" id={id}>
       <ScrollAnimation animateIn="fadeInDown">
    
-        <h1 style={{color:"white", fontSize:"35px"}}>{title}</h1>
+        <h1 style={{color:"white", fontSize:"45px"}}>{title}</h1>
        </ScrollAnimation>
         <p style={{color:"white"}}>{subtitle}</p>
       </div>

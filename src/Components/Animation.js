@@ -11,14 +11,14 @@ class Animation extends Component {
         return (
             <div style={{ textAlign: "center"}}>
             <div style={{ textAlign: "center", position:"relative", display:"inline-block" }} id="section1">
-                <img src="/geometry.gif" alt="geometric animation, credit to: xponentialdesign@xponentialdesign" style={{display:"block"}} />
+                <img src="https://aaaronmiller.github.io/Bootstrap-Portfolio/assets/images/geometry.gif" alt="geometric animation, credit to: xponentialdesign@xponentialdesign" style={{display:"block"}} />
                 <h1 style={{
                     position: "absolute",
                     top: "50%",
                     left: "50%",
                     transform: "translate(-50%, -80%)"
                 }}> 
-                <span class="text-wrapper" style={{color:"#3582b3", fontSize:"35px"}}>
+                <span class="text-wrapper" style={{color:"#3582b3", fontSize:"55px"}}>
                 <Roll right cascade >
                            
                            Aaron Miller<br />

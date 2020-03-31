@@ -51,7 +51,7 @@ export default class Navbar extends Component {
                   to="section1"
                   spy={true}
                   smooth={true}s
-                  offset={-70}
+                  offset={-75}
                   duration={500}
                   onClick={() => this.setState({ flip1: true })}
                   onAnimationEnd={() => this.setState({ flip1: false })}

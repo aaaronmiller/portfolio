@@ -1,12 +1,12 @@
 @font-face {
   font-family: MoristonPersonal;
-  src: url("/MoristonPersonal-Regular.otf") format("opentype");
+  src: url("%PUBLIC_URL%/MoristonPersonal-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: MoristonPersonal;
   font-weight: bold;
-  src: url("/MoristonPersonal-Bold.otf") format("opentype");
+  src: url("%PUBLIC_URL%/MoristonPersonal-Bold.otf") format("opentype");
 }
 
 :root {
