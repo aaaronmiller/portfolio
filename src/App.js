@@ -47,7 +47,7 @@ Conceived overall stylistic decisions to achieve a modern and interactive layout
 Led communication with clients in the creation of concept diagrams and design approval
 Oversaw subsequent website optimization and maintenance
 <p></p>
-EDUCATION<br></br>
+EDUCATION<br></br><br></br>
 University of Washington Coding Bootcamp
 May 2019 - August 2019 - Seattle
 Immersive course on designing and building web applications, with a specific focus on advanced JavaScript and React.js (graduated top 5% of class)
@@ -62,7 +62,7 @@ B.A. Comparative History of Ideas (Thesis : Digital Copyright in the Millennial 
                 <a href="https://github.com/aaaronmiller" style={{ color: "#0e4c9c" }}>GitHub</a>
               </p>
               <div style={{ color: "black" }}>
-               
+                
 
               </div>
               <p>
